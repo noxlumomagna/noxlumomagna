@@ -11,7 +11,7 @@ Software Engineer
 
 
 <a href="https://www.twitter.com/KcireDNguyen" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/KcireDNguyen?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/KcireDNguyen?logo=twitter"
 /></a>
 
 ### Skills
