@@ -7,7 +7,7 @@ Software Engineer
 * 🌍  I'm based in Philadelphia, PA - USA
 * 🖥️  See my portfolio at [https://dericknguyen.netlify.app/](https://dericknguyen.netlify.app/)
 * ✉️  You can contact me at [noxlumomagna@gmail.com](mailto:noxlumomagna@gmail.com)
-* 🧠  I'm learning React.js, MongoDB, and Express.js
+* 🧠  I'm learning React.js, Node.js, Express.js, and MongoDB.
 
 
 <a href="https://www.twitter.com/KcireDNguyen" target="_blank" rel="noreferrer"><img
