@@ -64,9 +64,7 @@ src="https://img.shields.io/twitter/follow/KcireDNguyen?logo=twitter"
      </a>
     </p>
    </td>
-   </tr>
-  
-  <td width='50%' valign='top'>
+    <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Personal Invoice Maker</h3>
     <br>
     <a href="https://invoicify-noxlumomagna.vercel.app/" rel="nofollow">
@@ -82,7 +80,6 @@ src="https://img.shields.io/twitter/follow/KcireDNguyen?logo=twitter"
     </p>
    </td>
   </tr>
-  
   
   <tr>
    <td width='50%' valign='top'>
@@ -100,8 +97,6 @@ src="https://img.shields.io/twitter/follow/KcireDNguyen?logo=twitter"
      </a>
     </p>
    </td>
-   
-   
    
    <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Alphabet Alley</h3>
