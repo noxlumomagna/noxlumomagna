@@ -63,9 +63,6 @@ src="https://img.shields.io/twitter/follow/KcireDNguyen?logo=twitter"
       <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
      </a>
     </p>
-    <p dir="auto">
-     <strong>Javascript, HTML, CSS </strong> - My collection of work.
-    </p>
    </td>
    
    </tr>
