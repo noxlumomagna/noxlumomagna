@@ -46,4 +46,30 @@ src="https://img.shields.io/twitter/follow/KcireDNguyen?logo=twitter"
 
 <a href="http://www.github.com/noxlumomagna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=noxlumomagna&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<table>
+ <tbody>
+  <tr>
+   <td width='50%' valign='top'>
+    <h3 align="center" dir="auto">Spelling Bee</h3>
+    <br>
+    <a href="https://dericknguyen.netlify.app/" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/101297012/177796705-f0e99481-da17-4f7f-bb5b-0742893b8831.gif" width="100%" alt="personal website" style="max-width: 100%;">
+    </a>
+    <p align="center" dir="auto">  
+     <a href="https://github.com/noxlumomagna/Personal-Website"> 
+      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
+     </a>
+     <a href="https://spelling-bee-abc.netlify.app" rel="nofollow">
+      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
+     </a>
+    </p>
+    <p dir="auto">
+     <strong>Javascript, HTML, CSS </strong> - My collection of work.
+    </p>
+   </td>
+   
+   </tr>
+ </tbody>
+</table>
+
 
