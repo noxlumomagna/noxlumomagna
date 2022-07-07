@@ -50,7 +50,7 @@ src="https://img.shields.io/twitter/follow/KcireDNguyen?logo=twitter"
  <tbody>
   <tr>
    <td width='50%' valign='top'>
-    <h3 align="center" dir="auto">Derick Nguyen</h3>
+    <h3 align="center" dir="auto">Portfolio Website</h3>
     <br>
     <a href="https://dericknguyen.netlify.app/" rel="nofollow">
      <img src="https://user-images.githubusercontent.com/101297012/177796705-f0e99481-da17-4f7f-bb5b-0742893b8831.gif" width="100%" alt="personal website" style="max-width: 100%;">
