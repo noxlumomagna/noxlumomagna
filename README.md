@@ -64,9 +64,60 @@ src="https://img.shields.io/twitter/follow/KcireDNguyen?logo=twitter"
      </a>
     </p>
    </td>
-   
    </tr>
+  
+  <td width='50%' valign='top'>
+    <h3 align="center" dir="auto">Personal Invoice Maker</h3>
+    <br>
+    <a href="https://invoicify-noxlumomagna.vercel.app/" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/101297012/177805324-df7317f6-9593-409f-b357-384f365af93c.gif" width="100%" alt="invoicify app" style="max-width: 100%;">
+    </a>
+    <p align="center" dir="auto">  
+     <a href="https://github.com/noxlumomagna/invoicify"> 
+      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
+     </a>
+     <a href="https://invoicify-noxlumomagna.vercel.app/" rel="nofollow">
+      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
+     </a>
+    </p>
+   </td>
+  </tr>
+  
+  
+  <tr>
+   <td width='50%' valign='top'>
+    <h3 align="center" dir="auto">Sports Recovery Lab</h3>
+    <br>
+    <a href="https://sportsrecoverylab.netlify.app/" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/101297012/177808109-d57e6e02-3fe0-436d-b5fe-e254669ef080.gif" width="100%" alt="sports recovery lab" style="max-width: 100%;">
+    </a>
+    <p align="center" dir="auto">  
+     <a href="https://github.com/noxlumomagna/sportsrecoverylab"> 
+      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
+     </a>
+     <a href="https://sportsrecoverylab.netlify.app/" rel="nofollow">
+      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
+     </a>
+    </p>
+   </td>
+   
+   
+   
+   <td width='50%' valign='top'>
+    <h3 align="center" dir="auto">Alphabet Alley</h3>
+    <br>
+    <a href="https://github.com/noxlumomagna/alphabetalley" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/101297012/177808035-89994b1a-a87a-43d5-87c5-f5d59a45b55a.gif" width="100%" alt="alphabet alley" style="max-width: 100%;">
+    </a>
+    <p align="center" dir="auto">  
+     <a href="https://github.com/noxlumomagna/alphabetalley"> 
+      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
+     </a>
+     <a href="https://github.com/noxlumomagna/alphabetalley" rel="nofollow">
+      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
+     </a>
+    </p> 
+  </td>
+  </tr>
  </tbody>
 </table>
-
-
