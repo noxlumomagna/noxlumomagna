@@ -108,7 +108,7 @@ src="https://img.shields.io/twitter/follow/KcireDNguyen?logo=twitter"
      <a href="https://github.com/noxlumomagna/alphabetalley"> 
       <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
      </a>
-     <a href="https://github.com/noxlumomagna/alphabetalley" rel="nofollow">
+     <a href="https://alphabetalley.netlify.app/index.html" rel="nofollow">
       <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
      </a>
     </p> 
