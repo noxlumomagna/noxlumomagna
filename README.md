@@ -9,11 +9,6 @@ Software Engineer
 * ✉️  You can contact me at [noxlumomagna@gmail.com](mailto:noxlumomagna@gmail.com)
 * 🧠  I'm learning React.js, Node.js, Express.js, and MongoDB.
 
-
-<a href="https://www.twitter.com/KcireDNguyen" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/KcireDNguyen?logo=twitter"
-/></a>
-
 <table>
  <tbody>
   <tr>
@@ -99,6 +94,10 @@ src="https://img.shields.io/twitter/follow/KcireDNguyen?logo=twitter"
 
 
 ### Socials
+
+<a href="https://www.twitter.com/KcireDNguyen" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/KcireDNguyen?logo=twitter"
+/></a>
 
 <p align="left"> <a href="https://www.github.com/noxlumomagna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/derick-nguyen-100devs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
