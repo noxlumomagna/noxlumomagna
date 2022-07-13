@@ -13,7 +13,7 @@ Software Engineer
  <tbody>
   
   <tr>
-   <td width='100%' valign='top'>
+   <td width='50%' valign='top'>
     <h3 align="center" dir="auto">PopFlix</h3>
     <br>
     <a href="https://popflix-eta.vercel.app/" rel="nofollow">
