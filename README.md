@@ -28,8 +28,7 @@ Software Engineer
      </a>
     </p>
    </td>
-   
-    <td width='50%' valign='top'>
+      <td width='50%' valign='top'>
     <h3 align="center" dir="auto">PopFlix</h3>
     <br>
     <a href="https://popflix-eta.vercel.app/" rel="nofollow">
@@ -44,7 +43,6 @@ Software Engineer
      </a>
     </p>
    </td>
-
   </tr>
   
   <tr>
@@ -63,6 +61,7 @@ Software Engineer
      </a>
     </p>
    </td>
+   
     <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Sports Recovery Lab</h3>
     <br>
@@ -78,8 +77,6 @@ Software Engineer
      </a>
     </p>
    </td>
-   
-  
   </tr>
   
   <tr>
