@@ -45,6 +45,39 @@ Software Engineer
    </td>
   </tr>
   
+  
+      <tr>
+   <td width='50%' valign='top'>
+    <h3 align="center" dir="auto">Invoicify</h3>
+    <br>
+    <a href="https://invoicify-nu.vercel.app/" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/101297012/178840566-eafd45c5-a714-49bb-a1c3-d7e5b691d85d.gif" width="100%" alt="invoice maker website gif" style="max-width: 100%;">
+    </a>
+    <p align="center" dir="auto">  
+     <a href="https://github.com/noxlumomagna/invoicify"> 
+      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
+     </a>
+     <a href="https://invoicify-nu.vercel.app/" rel="nofollow">
+      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
+     </a>
+    </p>
+   </td>
+      <td width='50%' valign='top'>
+    <h3 align="center" dir="auto">Pomodoroify</h3>
+    <br>
+    <a href="https://pomodoroify.netlify.app/" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/101297012/178840566-eafd45c5-a714-49bb-a1c3-d7e5b691d85d.gif" width="100%" alt="moving streaming website gif" style="max-width: 100%;">
+    </a>
+    <p align="center" dir="auto">  
+     <a href="https://github.com/noxlumomagna/Pomodoro"> 
+      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
+     </a>
+     <a href="https://pomodoroify.netlify.app/" rel="nofollow">
+      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
+     </a>
+    </p>
+   </td>
+  </tr>
   <tr>
    <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Sports Recovery Lab</h3>
@@ -78,39 +111,7 @@ Software Engineer
     </p> 
   </td>
   </tr>
-  
-    <tr>
-   <td width='50%' valign='top'>
-    <h3 align="center" dir="auto">PopFlix</h3>
-    <br>
-    <a href="https://popflix-eta.vercel.app/" rel="nofollow">
-     <img src="https://user-images.githubusercontent.com/101297012/178840566-eafd45c5-a714-49bb-a1c3-d7e5b691d85d.gif" width="100%" alt="moving streaming website gif" style="max-width: 100%;">
-    </a>
-    <p align="center" dir="auto">  
-     <a href="https://github.com/noxlumomagna/popflix"> 
-      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
-     </a>
-     <a href="https://popflix-eta.vercel.app/" rel="nofollow">
-      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
-     </a>
-    </p>
-   </td>
-      <td width='50%' valign='top'>
-    <h3 align="center" dir="auto">PopFlix</h3>
-    <br>
-    <a href="https://popflix-eta.vercel.app/" rel="nofollow">
-     <img src="https://user-images.githubusercontent.com/101297012/178840566-eafd45c5-a714-49bb-a1c3-d7e5b691d85d.gif" width="100%" alt="moving streaming website gif" style="max-width: 100%;">
-    </a>
-    <p align="center" dir="auto">  
-     <a href="https://github.com/noxlumomagna/popflix"> 
-      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
-     </a>
-     <a href="https://popflix-eta.vercel.app/" rel="nofollow">
-      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
-     </a>
-    </p>
-   </td>
-  </tr>
+ 
   
  </tbody>
 </table>
