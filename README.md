@@ -29,49 +29,16 @@ Software Engineer
     </p>
    </td>
       <td width='50%' valign='top'>
-    <h3 align="center" dir="auto">PopFlix</h3>
+    <h3 align="center" dir="auto">Portfolio</h3>
     <br>
-    <a href="https://popflix-eta.vercel.app/" rel="nofollow">
-     <img src="https://user-images.githubusercontent.com/101297012/178840566-eafd45c5-a714-49bb-a1c3-d7e5b691d85d.gif" width="100%" alt="moving streaming website gif" style="max-width: 100%;">
+    <a href="https://dericknguyen.netlify.app/" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/101297012/178846447-bcfd7868-f4bb-400d-8dd1-70a889a65477.gif" width="100%" alt="portfolio website gif" style="max-width: 100%;">
     </a>
     <p align="center" dir="auto">  
-     <a href="https://github.com/noxlumomagna/popflix"> 
+     <a href="https://github.com/noxlumomagna/popflix](https://github.com/noxlumomagna/Personal-Website"> 
       <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
      </a>
-     <a href="https://popflix-eta.vercel.app/" rel="nofollow">
-      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
-     </a>
-    </p>
-   </td>
-  </tr>
-  
-  <tr>
-   <td width='50%' valign='top'>
-    <h3 align="center" dir="auto">PopFlix</h3>
-    <br>
-    <a href="https://popflix-eta.vercel.app/" rel="nofollow">
-     <img src="https://user-images.githubusercontent.com/101297012/178840566-eafd45c5-a714-49bb-a1c3-d7e5b691d85d.gif" width="100%" alt="moving streaming website gif" style="max-width: 100%;">
-    </a>
-    <p align="center" dir="auto">  
-     <a href="https://github.com/noxlumomagna/popflix"> 
-      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
-     </a>
-     <a href="https://popflix-eta.vercel.app/" rel="nofollow">
-      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
-     </a>
-    </p>
-   </td>
-      <td width='50%' valign='top'>
-    <h3 align="center" dir="auto">PopFlix</h3>
-    <br>
-    <a href="https://popflix-eta.vercel.app/" rel="nofollow">
-     <img src="https://user-images.githubusercontent.com/101297012/178840566-eafd45c5-a714-49bb-a1c3-d7e5b691d85d.gif" width="100%" alt="moving streaming website gif" style="max-width: 100%;">
-    </a>
-    <p align="center" dir="auto">  
-     <a href="https://github.com/noxlumomagna/popflix"> 
-      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
-     </a>
-     <a href="https://popflix-eta.vercel.app/" rel="nofollow">
+     <a href="https://dericknguyen.netlify.app/" rel="nofollow">
       <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
      </a>
     </p>
@@ -110,6 +77,39 @@ Software Engineer
      </a>
     </p> 
   </td>
+  </tr>
+  
+    <tr>
+   <td width='50%' valign='top'>
+    <h3 align="center" dir="auto">PopFlix</h3>
+    <br>
+    <a href="https://popflix-eta.vercel.app/" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/101297012/178840566-eafd45c5-a714-49bb-a1c3-d7e5b691d85d.gif" width="100%" alt="moving streaming website gif" style="max-width: 100%;">
+    </a>
+    <p align="center" dir="auto">  
+     <a href="https://github.com/noxlumomagna/popflix"> 
+      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
+     </a>
+     <a href="https://popflix-eta.vercel.app/" rel="nofollow">
+      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
+     </a>
+    </p>
+   </td>
+      <td width='50%' valign='top'>
+    <h3 align="center" dir="auto">PopFlix</h3>
+    <br>
+    <a href="https://popflix-eta.vercel.app/" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/101297012/178840566-eafd45c5-a714-49bb-a1c3-d7e5b691d85d.gif" width="100%" alt="moving streaming website gif" style="max-width: 100%;">
+    </a>
+    <p align="center" dir="auto">  
+     <a href="https://github.com/noxlumomagna/popflix"> 
+      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
+     </a>
+     <a href="https://popflix-eta.vercel.app/" rel="nofollow">
+      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
+     </a>
+    </p>
+   </td>
   </tr>
   
  </tbody>
