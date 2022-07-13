@@ -36,7 +36,7 @@ Software Engineer
      <img src="https://user-images.githubusercontent.com/101297012/178846447-bcfd7868-f4bb-400d-8dd1-70a889a65477.gif" width="100%" alt="portfolio website gif" style="max-width: 100%;">
     </a>
     <p align="center" dir="auto">  
-     <a href="https://github.com/noxlumomagna/popflix](https://github.com/noxlumomagna/Personal-Website"> 
+     <a href="https://github.com/noxlumomagna/Personal-Website"> 
       <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
      </a>
      <a href="https://dericknguyen.netlify.app/" rel="nofollow">
