@@ -30,7 +30,7 @@ Software Engineer
    </td>
    
     <td width='50%' valign='top'>
-    <h3 align="center" dir="auto">PopFlix</h3>
+    <h3 align="center" dir="auto">Pomodoro</h3>
     <br>
     <a href="https://pomodoroify.netlify.app/" rel="nofollow">
      <img src="https://user-images.githubusercontent.com/101297012/178844068-24a66d23-8807-403a-8abb-1dc0dcac0494.gif" width="100%" alt="moving streaming website gif" style="max-width: 100%;">
@@ -62,6 +62,7 @@ Software Engineer
      </a>
     </p>
    </td>
+   
     <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Personal Invoice Maker</h3>
     <br>
