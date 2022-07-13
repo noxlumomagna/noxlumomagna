@@ -47,32 +47,31 @@ Software Engineer
   
   <tr>
    <td width='50%' valign='top'>
-    <h3 align="center" dir="auto">Sports Recovery Lab</h3>
+    <h3 align="center" dir="auto">PopFlix</h3>
     <br>
-    <a href="https://sportsrecoverylab.netlify.app/" rel="nofollow">
-     <img src="https://user-images.githubusercontent.com/101297012/177808109-d57e6e02-3fe0-436d-b5fe-e254669ef080.gif" width="100%" alt="sports recovery lab" style="max-width: 100%;">
+    <a href="https://popflix-eta.vercel.app/" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/101297012/178840566-eafd45c5-a714-49bb-a1c3-d7e5b691d85d.gif" width="100%" alt="moving streaming website gif" style="max-width: 100%;">
     </a>
     <p align="center" dir="auto">  
-     <a href="https://github.com/noxlumomagna/sportsrecoverylab"> 
+     <a href="https://github.com/noxlumomagna/popflix"> 
       <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
      </a>
-     <a href="https://sportsrecoverylab.netlify.app/" rel="nofollow">
+     <a href="https://popflix-eta.vercel.app/" rel="nofollow">
       <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
      </a>
     </p>
    </td>
-   
-    <td width='50%' valign='top'>
-    <h3 align="center" dir="auto">Sports Recovery Lab</h3>
+      <td width='50%' valign='top'>
+    <h3 align="center" dir="auto">PopFlix</h3>
     <br>
-    <a href="https://sportsrecoverylab.netlify.app/" rel="nofollow">
-     <img src="https://user-images.githubusercontent.com/101297012/177808109-d57e6e02-3fe0-436d-b5fe-e254669ef080.gif" width="100%" alt="sports recovery lab" style="max-width: 100%;">
+    <a href="https://popflix-eta.vercel.app/" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/101297012/178840566-eafd45c5-a714-49bb-a1c3-d7e5b691d85d.gif" width="100%" alt="moving streaming website gif" style="max-width: 100%;">
     </a>
     <p align="center" dir="auto">  
-     <a href="https://github.com/noxlumomagna/sportsrecoverylab"> 
+     <a href="https://github.com/noxlumomagna/popflix"> 
       <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
      </a>
-     <a href="https://sportsrecoverylab.netlify.app/" rel="nofollow">
+     <a href="https://popflix-eta.vercel.app/" rel="nofollow">
       <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
      </a>
     </p>
