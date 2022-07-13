@@ -64,23 +64,23 @@ Software Engineer
    </td>
      
    <td width='50%' valign='top'>
-    <h3 align="center" dir="auto">Invoicify</h3>
+    <h3 align="center" dir="auto">Pomodoroify</h3>
     <br>
-    <a href="https://invoicify-nu.vercel.app/" rel="nofollow">
-     <img src="https://user-images.githubusercontent.com/101297012/178847243-30389c8b-9a27-4447-9f5f-f66d3625a6c9.gif" width="100%" alt="invoice maker website gif" style="max-width: 100%;">
+    <a href="https://pomodoroify.netlify.app/" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/101297012/178848065-a25859ef-a212-43e0-ad08-fade803e1322.gif" width="100%" alt="invoice maker website gif" style="max-width: 100%;">
     </a>
     <p align="center" dir="auto">  
-     <a href="https://github.com/noxlumomagna/invoicify"> 
+     <a href="https://github.com/noxlumomagna/Pomodoro"> 
       <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
      </a>
-     <a href="https://invoicify-nu.vercel.app/" rel="nofollow">
+     <a href="https://pomodoroify.netlify.app/" rel="nofollow">
       <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
      </a>
     </p>
    </td>
   </tr>
-  
-  <tr>
+
+    <tr>
    <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Sports Recovery Lab</h3>
     <br>
