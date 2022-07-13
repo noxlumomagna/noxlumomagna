@@ -13,7 +13,7 @@ Software Engineer
 <table>
  <tbody>
   
- <tr>
+   <tr>
    <td width='50%' valign='top'>
     <h3 align="center" dir="auto">PopFlix</h3>
     <br>
@@ -46,7 +46,7 @@ Software Engineer
    </td>
   </tr>
   
-    <tr>
+   <tr>
    <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Invoicify</h3>
     <br>
