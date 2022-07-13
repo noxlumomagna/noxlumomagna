@@ -13,7 +13,7 @@ Software Engineer
 <table>
  <tbody>
   
-  <tr>
+ <tr>
    <td width='50%' valign='top'>
     <h3 align="center" dir="auto">PopFlix</h3>
     <br>
@@ -66,7 +66,7 @@ Software Engineer
     <h3 align="center" dir="auto">Pomodoroify</h3>
     <br>
     <a href="https://pomodoroify.netlify.app/" rel="nofollow">
-     <img src="https://user-images.githubusercontent.com/101297012/178848065-a25859ef-a212-43e0-ad08-fade803e1322.gif" width="100%" alt="invoice maker website gif" style="max-width: 100%;">
+     <img src="https://user-images.githubusercontent.com/101297012/178848065-a25859ef-a212-43e0-ad08-fade803e1322.gif" width="100%" alt="pomodoro app" style="max-width: 100%;">
     </a>
     <p align="center" dir="auto">  
      <a href="https://github.com/noxlumomagna/Pomodoro"> 
