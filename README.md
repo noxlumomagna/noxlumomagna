@@ -28,40 +28,11 @@ Software Engineer
      </a>
     </p>
    </td>
-   
-    <td width='50%' valign='top'>
-    <h3 align="center" dir="auto">Pomodoro</h3>
-    <br>
-    <a href="https://pomodoroify.netlify.app/" rel="nofollow">
-     <img src="https://user-images.githubusercontent.com/101297012/178844068-24a66d23-8807-403a-8abb-1dc0dcac0494.gif" width="100%" alt="self-management timer" style="max-width: 100%;">
-    </a>
-    <p align="center" dir="auto">  
-     <a href="https://github.com/noxlumomagna/Pomodoro"> 
-      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
-     </a>
-     <a href="https://pomodoroify.netlify.app/" rel="nofollow">
-      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
-     </a>
-    </p>
-   </td>
+
   </tr>
   
   <tr>
-    <td width='50%' valign='top'>
-    <h3 align="center" dir="auto">Portfolio Website</h3>
-    <br>
-    <a href="https://dericknguyen.netlify.app/" rel="nofollow">
-     <img src="https://user-images.githubusercontent.com/101297012/177796705-f0e99481-da17-4f7f-bb5b-0742893b8831.gif" width="100%" alt="personal website" style="max-width: 100%;">
-    </a>
-    <p align="center" dir="auto">  
-     <a href="https://github.com/noxlumomagna/Personal-Website"> 
-      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
-     </a>
-     <a href="https://dericknguyen.netlify.app/" rel="nofollow">
-      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
-     </a>
-    </p>
-   </td>
+  
    
     <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Personal Invoice Maker</h3>
