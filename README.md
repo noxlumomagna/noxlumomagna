@@ -9,6 +9,7 @@ Software Engineer
 * ✉️  You can contact me at [noxlumomagna@gmail.com](mailto:noxlumomagna@gmail.com)
 * 🧠  I'm learning React.js, Node.js, Express.js, and MongoDB.
 
+
 <table>
  <tbody>
   
@@ -28,6 +29,7 @@ Software Engineer
      </a>
     </p>
    </td>
+   
      <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Portfolio</h3>
     <br>
@@ -80,7 +82,7 @@ Software Engineer
    </td>
   </tr>
 
-    <tr>
+   <tr>
    <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Sports Recovery Lab</h3>
     <br>
