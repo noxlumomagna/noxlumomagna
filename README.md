@@ -28,7 +28,7 @@ Software Engineer
      </a>
     </p>
    </td>
-      <td width='50%' valign='top'>
+     <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Portfolio</h3>
     <br>
     <a href="https://dericknguyen.netlify.app/" rel="nofollow">
@@ -46,7 +46,7 @@ Software Engineer
   </tr>
   
   
-      <tr>
+    <tr>
    <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Invoicify</h3>
     <br>
@@ -60,10 +60,10 @@ Software Engineer
      <a href="https://invoicify-nu.vercel.app/" rel="nofollow">
       <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
      </a>
-
     </p>
    </td>
-      <td width='50%' valign='top'>
+     
+     <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Pomodoroify</h3>
     <br>
     <a href="https://pomodoroify.netlify.app/" rel="nofollow">
@@ -79,6 +79,7 @@ Software Engineer
     </p>
    </td>
   </tr>
+  
   <tr>
    <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Sports Recovery Lab</h3>
@@ -113,7 +114,6 @@ Software Engineer
   </td>
   </tr>
  
-  
  </tbody>
 </table>
 
