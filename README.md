@@ -29,7 +29,6 @@ Software Engineer
      </a>
     </p>
    </td>
-   
      <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Portfolio</h3>
     <br>
@@ -47,7 +46,6 @@ Software Engineer
    </td>
   </tr>
   
-  
     <tr>
    <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Invoicify</h3>
@@ -64,7 +62,6 @@ Software Engineer
      </a>
     </p>
    </td>
-     
    <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Pomodoroify</h3>
     <br>
@@ -98,7 +95,6 @@ Software Engineer
      </a>
     </p>
    </td>
-   
    <td width='50%' valign='top'>
     <h3 align="center" dir="auto">Alphabet Alley</h3>
     <br>
