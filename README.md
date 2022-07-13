@@ -28,6 +28,22 @@ Software Engineer
      </a>
     </p>
    </td>
+   
+    <td width='50%' valign='top'>
+    <h3 align="center" dir="auto">PopFlix</h3>
+    <br>
+    <a href="https://pomodoroify.netlify.app/" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/101297012/178844068-24a66d23-8807-403a-8abb-1dc0dcac0494.gif" width="100%" alt="moving streaming website gif" style="max-width: 100%;">
+    </a>
+    <p align="center" dir="auto">  
+     <a href="https://github.com/noxlumomagna/Pomodoro"> 
+      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
+     </a>
+     <a href="https://pomodoroify.netlify.app/" rel="nofollow">
+      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
+     </a>
+    </p>
+   </td>
   </tr>
   
   <tr>
@@ -131,3 +147,4 @@ Software Engineer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/noxlumomagna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=noxlumomagna&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![pomodoro](https://user-images.githubusercontent.com/101297012/178844068-24a66d23-8807-403a-8abb-1dc0dcac0494.gif)
