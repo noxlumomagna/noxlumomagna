@@ -14,6 +14,23 @@ Software Engineer
 <table>
  <tbody>
   
+    <tr>
+  <td>
+  <h3 align="center" dir="auto">Bahston Brewers</h3>
+    <br>
+    <a href="https://bahston-brewers.vercel.app/" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/101297012/188005285-d4c926e2-8326-4a4a-81a9-7b766b245b4c.gif" width="100%" alt="bahston brewers" style="max-width: 100%;">
+    </a>
+    <p align="center" dir="auto">  
+     <a href="https://github.com/noxlumomagna/bahstonBrewers"> 
+      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
+     </a>
+     <a href="https://bahston-brewers.vercel.app/" rel="nofollow">
+      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
+     </a>
+    </p> 
+  </td
+  </tr>
    <tr>
    <td width='50%' valign='top'>
     <h3 align="center" dir="auto">PopFlix</h3>
@@ -111,23 +128,6 @@ Software Engineer
      </a>
     </p> 
   </td>
-  </tr>
-  <tr>
-  <td>
-  <h3 align="center" dir="auto">Bahston Brewers</h3>
-    <br>
-    <a href="https://bahston-brewers.vercel.app/" rel="nofollow">
-     <img src="https://user-images.githubusercontent.com/101297012/188005285-d4c926e2-8326-4a4a-81a9-7b766b245b4c.gif" width="100%" alt="bahston brewers" style="max-width: 100%;">
-    </a>
-    <p align="center" dir="auto">  
-     <a href="https://github.com/noxlumomagna/bahstonBrewers"> 
-      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
-     </a>
-     <a href="https://bahston-brewers.vercel.app/" rel="nofollow">
-      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
-     </a>
-    </p> 
-  </td
   </tr>
 
  </tbody>
