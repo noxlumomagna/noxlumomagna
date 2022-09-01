@@ -116,7 +116,7 @@ Software Engineer
   <td>
   <h3 align="center" dir="auto">Bahston Brewers</h3>
     <br>
-    <a href="[https://github.com/noxlumomagna/bahston](https://bahston-brewers.vercel.app/)" rel="nofollow">
+    <a href="https://bahston-brewers.vercel.app/" rel="nofollow">
      <img src="https://user-images.githubusercontent.com/101297012/188005285-d4c926e2-8326-4a4a-81a9-7b766b245b4c.gif" width="100%" alt="bahston brewers" style="max-width: 100%;">
     </a>
     <p align="center" dir="auto">  
