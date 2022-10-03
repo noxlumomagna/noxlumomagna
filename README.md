@@ -39,8 +39,6 @@ Software Engineer
      </a>
     </p> 
   </td
-  </tr>
-    <tr>
   <td>
   <h3 align="center" dir="auto">Bahston Brewers</h3>
     <br>
