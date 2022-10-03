@@ -27,14 +27,14 @@ Software Engineer
   <td>
   <h3 align="center" dir="auto">Chitterbox</h3>
     <br>
-    <a href="https://chitterbox.netlify.app/login" rel="nofollow">
+    <a href="https://chitterbox.netlify.app/" rel="nofollow">
      <img src="https://user-images.githubusercontent.com/101297012/193691871-b9fded2c-622d-4758-bad5-b6f2f8c0ef37.gif" width="100%" alt="chitterbox " style="max-width: 100%;">
     </a>
     <p align="center" dir="auto">  
      <a href="https://github.com/noxlumomagna/chitterboxapp"> 
       <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
      </a>
-     <a href="https://chitterbox.netlify.app/login" rel="nofollow">
+     <a href="https://chitterbox.netlify.app/" rel="nofollow">
       <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
      </a>
     </p> 
