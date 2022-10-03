@@ -25,6 +25,21 @@ Software Engineer
  <tbody>
   <tr>
   <td>
+  <h3 align="center" dir="auto">Chitterbox</h3>
+    <br>
+    <a href="https://chitterbox.netlify.app/login" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/101297012/193691871-b9fded2c-622d-4758-bad5-b6f2f8c0ef37.gif" width="100%" alt="chitterbox " style="max-width: 100%;">
+    </a>
+    <p align="center" dir="auto">  
+     <a href="https://github.com/noxlumomagna/chitterboxapp"> 
+      <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
+     </a>
+     <a href="https://chitterbox.netlify.app/login" rel="nofollow">
+      <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
+     </a>
+    </p> 
+   </td>
+     <td>
   <h3 align="center" dir="auto">Bahston Brewers</h3>
     <br>
     <a href="https://bahston-brewers.vercel.app/" rel="nofollow">
@@ -39,6 +54,7 @@ Software Engineer
      </a>
     </p> 
    </td>
+   
   </tr>
    <tr>
    <td width='50%' valign='top'>
@@ -149,7 +165,7 @@ Software Engineer
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:1derick.nguyen@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-)](https://twitter.com/KcireDNguyen)
+)](https://twitter.com/1dericknguyen)
 
 ### Badges
 
