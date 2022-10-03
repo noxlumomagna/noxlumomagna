@@ -38,7 +38,7 @@ Software Engineer
       <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
      </a>
     </p> 
-  </td
+   </td>
   </tr>
    <tr>
    <td width='50%' valign='top'>
