@@ -28,7 +28,7 @@ Software Engineer
   <h3 align="center" dir="auto">Bahston Brewers</h3>
     <br>
     <a href="https://bahston-brewers.vercel.app/" rel="nofollow">
-     <img src="https://user-images.githubusercontent.com/101297012/188005285-d4c926e2-8326-4a4a-81a9-7b766b245b4c.gif" width="100%" alt="bahston brewers" style="max-width: 100%;">
+     <img src="https://user-images.githubusercontent.com/101297012/188005285-d4c926e2-8326-4a4a-81a9-7b766b245b4c.gif" width="100%" alt="bahston brewers" style="max-width: 50%;">
     </a>
     <p align="center" dir="auto">  
      <a href="https://github.com/noxlumomagna/bahstonBrewers"> 
@@ -38,12 +38,12 @@ Software Engineer
       <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
      </a>
     </p> 
-  </td
+   </td>
   <td>
-  <h3 align="center" dir="auto">Bahston Brewers</h3>
+  <h3 align="center" dir="auto">Chitterbox</h3>
     <br>
     <a href="https://chitterbox.netlify.app/login" rel="nofollow">
-     <img src="https://user-images.githubusercontent.com/101297012/188005285-d4c926e2-8326-4a4a-81a9-7b766b245b4c.gif" width="100%" alt="bahston brewers" style="max-width: 100%;">
+     <img src="https://user-images.githubusercontent.com/101297012/188005285-d4c926e2-8326-4a4a-81a9-7b766b245b4c.gif" width="100%" alt="bahston brewers" style="max-width: 50%;">
     </a>
     <p align="center" dir="auto">  
      <a href="https://chitterbox.netlify.app/login"> 
@@ -75,7 +75,9 @@ Software Engineer
     <h3 align="center" dir="auto">Portfolio</h3>
     <br>
     <a href="https://dericknguyen.netlify.app/" rel="nofollow">
-     <img src="https://user-images.githubusercontent.com/101297012/178846447-bcfd7868-f4bb-400d-8dd1-70a889a65477.gif" width="100%" alt="portfolio website gif" style="max-width: 100%;">
+     
+
+     <img src="[https://user-images.githubusercontent.com/101297012/178846447-bcfd7868-f4bb-400d-8dd1-70a889a65477.gif](https://user-images.githubusercontent.com/101297012/193689136-1ddf9989-5897-4cef-8266-df0ae9198b6c.gif)" width="100%" alt="portfolio website gif" style="max-width: 100%;">
     </a>
     <p align="center" dir="auto">  
      <a href="https://github.com/noxlumomagna/Personal-Website"> 
@@ -177,3 +179,4 @@ Software Engineer
 
 <a href="http://www.github.com/noxlumomagna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=noxlumomagna&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+![chitterbox](https://user-images.githubusercontent.com/101297012/193689136-1ddf9989-5897-4cef-8266-df0ae9198b6c.gif)
