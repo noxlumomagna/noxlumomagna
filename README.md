@@ -24,7 +24,7 @@ Software Engineer
 <table>
  <tbody>
   <tr>
-  <td>
+  <td width='50%' valign='top' >
   <h3 align="center" dir="auto">Bahston Brewers</h3>
     <br>
     <a href="https://bahston-brewers.vercel.app/" rel="nofollow">
@@ -39,7 +39,7 @@ Software Engineer
      </a>
     </p> 
    </td>
-  <td>
+  <td width='50%' valign='top' >
   <h3 align="center" dir="auto">Chitterbox</h3>
     <br>
     <a href="https://chitterbox.netlify.app/login" rel="nofollow">
