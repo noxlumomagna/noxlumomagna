@@ -1,13 +1,16 @@
-Hi 👋 I'm Derick
-===========================
+Hi 👋 My name is Derick Nguyen
+==============================
 
 Software Engineer
---------------------
+-----------------
 
-* 🌍  I'm based in Philadelphia, PA - USA
-* 🖥️  See my portfolio at [https://nguyening.netlify.app/](https://nguyening.netlify.app/)
+Currently coding in MERN.
+
+* 🌍  I'm based in Philadelphia, PA, United States
+* 🖥️  See my portfolio at [https://nguyening.netlify.app/](http://nguyening.netlify.app/)
 * ✉️  You can contact me at [1derick.nguyen@gmail.com](mailto:1derick.nguyen@gmail.com)
-* 🧠  I'm building in React.js, Node.js, Express.js, and MongoDB.
+* 🤝  I'm open to collaborating on open source.
+* ⚡  Enjoys talking tennis, tech, places to visit, and movies.
 ### Skills
 
 <p align="left">
