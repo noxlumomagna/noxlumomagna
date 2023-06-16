@@ -7,7 +7,7 @@ Software Engineer
 Currently coding in MERN.
 
 * 🌍  I'm based in Philadelphia, PA, United States
-* 🖥️  See my portfolio at [https://nguyening.netlify.app/](http://nguyening.netlify.app/)
+* 🖥️  See my portfolio at [[https://dericknguyen.netlify.app/](https://dericknguyen.netlify.app/))
 * ✉️  You can contact me at [1derick.nguyen@gmail.com](mailto:1derick.nguyen@gmail.com)
 * 🤝  I'm open to collaborating on open source.
 * ⚡  Enjoys talking tennis, tech, places to visit, and movies.
